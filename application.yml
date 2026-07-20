@@ -1,0 +1,14 @@
+server:
+  port: 2333
+
+lavalink:
+  server:
+    password: WeekendMusic123
+
+    sources:
+      youtube: true
+      soundcloud: true
+
+logging:
+  level:
+    root: INFO
